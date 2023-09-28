@@ -1,0 +1,64 @@
+ul {
+    display: flex;
+    padding: 15px;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 100px;
+}
+li {
+  
+}
+.golova {
+
+}
+.sign {
+    background-color:green;
+}
+.plant {
+    font-size: x-large;
+    margin-right: 250px;
+}
+.box {
+    
+}
+.box1 {
+    margin-left: 150px;
+}
+.box2 {
+    margin-left: 150px;
+}
+.box3 {
+    margin-left: 150px;
+}
+.lorem {
+    width: 384px;
+    height: 78px;
+    margin-left: 150px;
+}
+.button1 {
+    margin-top: 80px;
+    margin-left: 150px;
+    background-color: green;
+
+}
+.plus {
+    display: flex;
+    margin-left: 150px;
+}
+.second {
+    margin-left: 50px;
+    font-size: xx-large;
+    padding: 0;
+}
+.first {
+    font-size: xx-large;
+    padding: 0;
+}
+.words {
+    display: flex;
+    margin-left: 150px;
+}
+.four {
+    margin-left:80px ;
+}
+
